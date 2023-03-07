@@ -1,0 +1,14 @@
+name: ps6_assignemnt
+title: ps6_assignemnt
+username:
+account: yanxifengps6
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8497249
+bundleId: 6924007
+url: https://yanxifengps6.shinyapps.io/ps6_assignemnt/
+when: 1678157581.50607
+lastSyncTime: 1678157581.50607
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: All-Transactions_House_Price_Index_for_Connecticut.csv|ps6.Rmd|seattle-weather.csv
